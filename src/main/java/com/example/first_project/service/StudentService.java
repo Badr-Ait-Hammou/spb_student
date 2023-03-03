@@ -27,7 +27,7 @@ public class StudentService {
             return -1;
         }else{
             studentRepository.save(student);
-            return 40;
+            return 4;
         }
 
     }
